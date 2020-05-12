@@ -2,7 +2,6 @@ belajar
 html
 css
 git
-github
 javascript
 php
 mysql
